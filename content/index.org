@@ -5,4 +5,4 @@ Hi, This is my personal site.
 Some things I'm interested in are: mindfulness, watercolor painting, creative
 coding and Dialectical Behavior Therapy.
 
-Test
+My first post: [[file:goals-info-2024.org][Goal information 2024]]
